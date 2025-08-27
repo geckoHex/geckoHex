@@ -1,16 +1,13 @@
-## Hi there 👋
+                      █             ▄    ▄              
+  ▄▄▄▄   ▄▄▄    ▄▄▄   █   ▄   ▄▄▄   █    █  ▄▄▄   ▄   ▄ 
+ █▀ ▀█  █▀  █  █▀  ▀  █ ▄▀   █▀ ▀█  █▄▄▄▄█ █▀  █   █▄█  
+ █   █  █▀▀▀▀  █      █▀█    █   █  █    █ █▀▀▀▀   ▄█▄  
+ ▀█▄▀█  ▀█▄▄▀  ▀█▄▄▀  █  ▀▄  ▀█▄█▀  █    █ ▀█▄▄▀  ▄▀ ▀▄ 
+  ▄  █                                                  
+   ▀▀                                                   
 
-<!--
-**geckoHex/geckoHex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on using AI to generate fun podcasts to help students study
+- 🌱 I’m currently learning web-dev tech
+- 📫 How to reach me: https://www.beckorion.com/contact
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I run a Linux server under my desk
