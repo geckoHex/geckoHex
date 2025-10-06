@@ -1,4 +1,4 @@
-![geckoHex Logo](https://www.beckorion.com/hosting/geckoHex.png)
+![geckoHex Logo](https://www.beckorion.com/hosting/ascii-art-text.png)
 
 # About @geckoHex
 
